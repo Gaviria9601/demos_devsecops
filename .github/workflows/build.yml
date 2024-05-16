@@ -23,7 +23,7 @@ jobs:
 
       - name: Execute devsecops-engine-tools
         run: |
-          pip3 install devsecops-engine-tools
+          pip3 install -q devsecops-engine-tools
           set -a
           source .envdetlocal
           set +a

@@ -5,7 +5,7 @@
     "IGNORE_SEARCH_PATTERN": [
         "test"
     ],
-    "MESSAGE_INFO_ENGINE_IAC": "message custom",
+    "MESSAGE_INFO_ENGINE_IAC": "engine_iac",
     "EXCLUSIONS_PATH": "/engine_sast/engine_iac/Exclusions.json",
     "THRESHOLD": {
         "VULNERABILITY": {
