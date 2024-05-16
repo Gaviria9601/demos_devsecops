@@ -24,10 +24,15 @@ jobs:
       - name: Execute devsecops-engine-tools
         run: |
           set -e
+          # Install devsecops-engine-tools
           pip3 install -q devsecops-engine-tools
+
+          # Configure variables for devsecops-engine-tools
           set -a
           source .envdetlocal
           set +a
+
+          # Execute devsecops-engine-tools and handle the output
           output=$(devsecops-engine-tools --platform_devops local --remote_config_repo det_config_local --tool engine_iac --folder_path deployment)
           echo "$output"
           if [[ $output == *"✘Failed"* ]]; then
