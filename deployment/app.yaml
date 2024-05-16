@@ -2,6 +2,7 @@ apiVersion: apps/v1
 kind: Deployment
 metadata:
   name: test-deployment
+  namespace: test
   labels:
     app.com.co/env: dev
     app.com.co/project: devsecops
@@ -17,3 +18,8 @@ spec:
         app.com.co/project: test
     spec:
       automountServiceAccountToken: false
+      securityContext:
+        runAsNonRoot: 12312
+        runAsUser: 123
+        runAsGroup: 4123
+        fsGroup: 1231
