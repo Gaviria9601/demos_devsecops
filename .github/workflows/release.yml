@@ -1,9 +1,9 @@
-name: Main
+name: Release
 
 on:
   push:
     tags:
-      - "v*.*.*"
+    - 'v*'
 
 jobs:
   build:
@@ -11,5 +11,6 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - name: Release
-        uses: softprops/action-gh-release@v2
+      - name: Hello
+        run: |
+          echo "Hello, world!" from tag ${{ github.ref }}
