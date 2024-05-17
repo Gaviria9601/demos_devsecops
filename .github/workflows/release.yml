@@ -11,6 +11,5 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - name: Hello
-        run: |
-          echo "Hello, world!" from tag ${{ github.ref }}
+      - name: Release
+        uses: softprops/action-gh-release@v2
