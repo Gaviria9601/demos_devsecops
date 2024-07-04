@@ -31,7 +31,6 @@ jobs:
           #set -a
           #source .envdetlocal
           #set +a
-          echo ${{ github.repository }}
 
           # Execute devsecops-engine-tools and handle the output
           output=$(devsecops-engine-tools --platform_devops github --remote_config_repo Remote_config --tool engine_iac --folder_path deployment)
@@ -41,3 +40,4 @@ jobs:
           fi
         env:
           GITHUB_ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BUILD: 'build'
