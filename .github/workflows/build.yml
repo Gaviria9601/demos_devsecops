@@ -40,4 +40,4 @@ jobs:
           fi
         env:
           GITHUB_ACCESS_TOKEN: ${{ secrets.TOKEN_PERSONAL }}
-          build: 'build'
+          BUILD: 'build'
