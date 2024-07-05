@@ -38,6 +38,6 @@ jobs:
           if [[ $output == *"✘Failed"* ]]; then
             exit 1
           fi
-        env:
-          # GITHUB_ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          # BUILD: 'build'
+        # env:
+        #   # GITHUB_ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        #   # BUILD: 'build'
