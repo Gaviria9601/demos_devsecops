@@ -28,16 +28,16 @@ jobs:
           pip3 install -q devsecops-engine-tools
 
           # Configure variables for devsecops-engine-tools
-          set -a
-          source .envdetlocal
-          set +a
+          # set -a
+          # source .envdetlocal
+          # set +a
 
           # Execute devsecops-engine-tools and handle the output
-          output=$(devsecops-engine-tools --platform_devops local --remote_config_repo det_config_local --tool engine_iac --folder_path deployment)
+          output=$(devsecops-engine-tools --platform_devops github --remote_config_repo Remote_config --tool engine_iac --folder_path deployment)
           echo "$output"
           if [[ $output == *"✘Failed"* ]]; then
             exit 1
           fi
         env:
-          GITHUB_ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          BUILD: 'build'
+          # GITHUB_ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # BUILD: 'build'
