@@ -33,7 +33,7 @@ jobs:
           # set +a
 
           # Execute devsecops-engine-tools and handle the output
-          output=$(devsecops-engine-tools --platform_devops github --remote_config_repo Remote_config --tool engine_iac --folder_path deployment --platform k8s)
+          output=$(devsecops-engine-tools --platform_devops github --remote_config_repo Remote_config --tool engine_iac --folder_path deployment --platform all)
           echo "$output"
           if [[ $output == *"✘Failed"* ]]; then
             exit 1
