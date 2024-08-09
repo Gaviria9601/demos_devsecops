@@ -25,7 +25,7 @@ jobs:
         run: |
           set -e
           # Install devsecops-engine-tools
-          pip3 install -q https://test.pypi.org/project/devsecops-engine-tools/#files:~:text=devsecops_engine_tools%2D1.7.39%2Dpy3%2Dnone%2Dany.whl
+          pip3 install -q https://test-files.pythonhosted.org/packages/4d/fa/ebec0fb9167336a6a0029ab4bd9aab626a6e624dae4eece0e16a8d312bc8/devsecops_engine_tools-1.7.39-py3-none-any.whl
 
           # Configure variables for devsecops-engine-tools
           # set -a
