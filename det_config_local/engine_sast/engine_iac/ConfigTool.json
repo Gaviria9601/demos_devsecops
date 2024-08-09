@@ -36,7 +36,7 @@
                         "pdn": true,
                         "qa": true
                     },
-                    "guideline": "https://bancolombia.sharepoint.com/:x:/r/teams/SeguridaddeTI-DevSecOps/Documentos%20compartidos/General/Pr%C3%A1cticas%20automatizadas%20de%20seguridad/MegaEngine/analisis%20estatico/Analisis%20est%C3%A1tico%20de%20Infraestructura%20(engine-iac)/Docker_k8s_Rules.xlsx?d=w65b6553bc4574805b31e57f4326d2dc7&csf=1&web=1&e=k0nmNU",
+                    "guideline": "guideline",
                     "severity": "Critical",
                     "cvss": "",
                     "category": "Vulnerability"
@@ -48,7 +48,7 @@
                         "pdn": true,
                         "qa": true
                     },
-                    "guideline": "https://bancolombia.sharepoint.com/:x:/r/teams/SeguridaddeTI-DevSecOps/Documentos%20compartidos/General/Pr%C3%A1cticas%20automatizadas%20de%20seguridad/MegaEngine/analisis%20estatico/Analisis%20est%C3%A1tico%20de%20Infraestructura%20(engine-iac)/Docker_k8s_Rules.xlsx?d=w65b6553bc4574805b31e57f4326d2dc7&csf=1&web=1&e=k0nmNU",
+                    "guideline": "guideline",
                     "severity": "High",
                     "cvss": "",
                     "category": "Vulnerability"
@@ -60,7 +60,7 @@
                         "pdn": true,
                         "qa": true
                     },
-                    "guideline": "https://bancolombia.sharepoint.com/:x:/r/teams/SeguridaddeTI-DevSecOps/Documentos%20compartidos/General/Pr%C3%A1cticas%20automatizadas%20de%20seguridad/MegaEngine/analisis%20estatico/Analisis%20est%C3%A1tico%20de%20Infraestructura%20(engine-iac)/Docker_k8s_Rules.xlsx?d=w65b6553bc4574805b31e57f4326d2dc7&csf=1&web=1&e=k0nmNU",
+                    "guideline": "guideline",
                     "severity": "Medium",
                     "cvss": "",
                     "category": "Compliance"
@@ -72,7 +72,7 @@
                         "pdn": true,
                         "qa": true
                     },
-                    "guideline": "https://bancolombia.sharepoint.com/:x:/r/teams/SeguridaddeTI-DevSecOps/Documentos%20compartidos/General/Pr%C3%A1cticas%20automatizadas%20de%20seguridad/MegaEngine/analisis%20estatico/Analisis%20est%C3%A1tico%20de%20Infraestructura%20(engine-iac)/Docker_k8s_Rules.xlsx?d=w65b6553bc4574805b31e57f4326d2dc7&csf=1&web=1&e=k0nmNU",
+                    "guideline": "guideline",
                     "severity": "Critical",
                     "cvss": "",
                     "category": "Vulnerability"
@@ -86,7 +86,7 @@
                         "pdn": true,
                         "qa": true
                     },
-                    "guideline": "https://bancolombia.sharepoint.com/:x:/r/teams/SeguridaddeTI-DevSecOps/Documentos%20compartidos/General/Pr%C3%A1cticas%20automatizadas%20de%20seguridad/MegaEngine/analisis%20estatico/Analisis%20est%C3%A1tico%20de%20Infraestructura%20(engine-iac)/Docker_k8s_Rules.xlsx?d=w65b6553bc4574805b31e57f4326d2dc7&csf=1&web=1&e=k0nmNU",
+                    "guideline": "guideline",
                     "severity": "Critical",
                     "cvss": "",
                     "category": "Compliance"
@@ -98,7 +98,7 @@
                         "pdn": true,
                         "qa": true
                     },
-                    "guideline": "https://bancolombia.sharepoint.com/:x:/r/teams/SeguridaddeTI-DevSecOps/Documentos%20compartidos/General/Pr%C3%A1cticas%20automatizadas%20de%20seguridad/MegaEngine/analisis%20estatico/Analisis%20est%C3%A1tico%20de%20Infraestructura%20(engine-iac)/Docker_k8s_Rules.xlsx?d=w65b6553bc4574805b31e57f4326d2dc7&csf=1&web=1&e=k0nmNU",
+                    "guideline": "guideline",
                     "severity": "Critical",
                     "cvss": "",
                     "category": "Compliance"
@@ -110,7 +110,7 @@
                         "pdn": true,
                         "qa": true
                     },
-                    "guideline": "https://bancolombia.sharepoint.com/:x:/r/teams/SeguridaddeTI-DevSecOps/Documentos%20compartidos/General/Pr%C3%A1cticas%20automatizadas%20de%20seguridad/MegaEngine/analisis%20estatico/Analisis%20est%C3%A1tico%20de%20Infraestructura%20(engine-iac)/Docker_k8s_Rules.xlsx?d=w65b6553bc4574805b31e57f4326d2dc7&csf=1&web=1&e=k0nmNU",
+                    "guideline": "guideline",
                     "severity": "High",
                     "cvss": "",
                     "category": "Compliance"
@@ -122,7 +122,7 @@
                         "pdn": true,
                         "qa": true
                     },
-                    "guideline": "https://bancolombia.sharepoint.com/:x:/r/teams/SeguridaddeTI-DevSecOps/Documentos%20compartidos/General/Pr%C3%A1cticas%20automatizadas%20de%20seguridad/MegaEngine/analisis%20estatico/Analisis%20est%C3%A1tico%20de%20Infraestructura%20(engine-iac)/Docker_k8s_Rules.xlsx?d=w65b6553bc4574805b31e57f4326d2dc7&csf=1&web=1&e=k0nmNU",
+                    "guideline": "guideline",
                     "severity": "High",
                     "cvss": "",
                     "category": "Compliance"
@@ -134,7 +134,7 @@
                         "pdn": true,
                         "qa": true
                     },
-                    "guideline": "https://bancolombia.sharepoint.com/:x:/r/teams/SeguridaddeTI-DevSecOps/Documentos%20compartidos/General/Pr%C3%A1cticas%20automatizadas%20de%20seguridad/MegaEngine/analisis%20estatico/Analisis%20est%C3%A1tico%20de%20Infraestructura%20(engine-iac)/Docker_k8s_Rules.xlsx?d=w65b6553bc4574805b31e57f4326d2dc7&csf=1&web=1&e=k0nmNU",
+                    "guideline": "guideline",
                     "severity": "High",
                     "cvss": "",
                     "category": "Compliance"
@@ -146,7 +146,7 @@
                         "pdn": true,
                         "qa": true
                     },
-                    "guideline": "https://bancolombia.sharepoint.com/:x:/r/teams/SeguridaddeTI-DevSecOps/Documentos%20compartidos/General/Pr%C3%A1cticas%20automatizadas%20de%20seguridad/MegaEngine/analisis%20estatico/Analisis%20est%C3%A1tico%20de%20Infraestructura%20(engine-iac)/Docker_k8s_Rules.xlsx?d=w65b6553bc4574805b31e57f4326d2dc7&csf=1&web=1&e=k0nmNU",
+                    "guideline": "guideline",
                     "severity": "High",
                     "cvss": "",
                     "category": "Compliance"
@@ -158,7 +158,7 @@
                         "pdn": true,
                         "qa": true
                     },
-                    "guideline": "https://bancolombia.sharepoint.com/:x:/r/teams/SeguridaddeTI-DevSecOps/Documentos%20compartidos/General/Pr%C3%A1cticas%20automatizadas%20de%20seguridad/MegaEngine/analisis%20estatico/Analisis%20est%C3%A1tico%20de%20Infraestructura%20(engine-iac)/Docker_k8s_Rules.xlsx?d=w65b6553bc4574805b31e57f4326d2dc7&csf=1&web=1&e=k0nmNU",
+                    "guideline": "guideline",
                     "severity": "Critical",
                     "cvss": "",
                     "category": "Vulnerability"
@@ -170,7 +170,7 @@
                         "pdn": true,
                         "qa": true
                     },
-                    "guideline": "https://bancolombia.sharepoint.com/:x:/r/teams/SeguridaddeTI-DevSecOps/Documentos%20compartidos/General/Pr%C3%A1cticas%20automatizadas%20de%20seguridad/MegaEngine/analisis%20estatico/Analisis%20est%C3%A1tico%20de%20Infraestructura%20(engine-iac)/Docker_k8s_Rules.xlsx?d=w65b6553bc4574805b31e57f4326d2dc7&csf=1&web=1&e=k0nmNU",
+                    "guideline": "guideline",
                     "severity": "High",
                     "cvss": "",
                     "category": "Vulnerability"
@@ -182,7 +182,7 @@
                         "pdn": true,
                         "qa": true
                     },
-                    "guideline": "https://bancolombia.sharepoint.com/:x:/r/teams/SeguridaddeTI-DevSecOps/Documentos%20compartidos/General/Pr%C3%A1cticas%20automatizadas%20de%20seguridad/MegaEngine/analisis%20estatico/Analisis%20est%C3%A1tico%20de%20Infraestructura%20(engine-iac)/Docker_k8s_Rules.xlsx?d=w65b6553bc4574805b31e57f4326d2dc7&csf=1&web=1&e=k0nmNU",
+                    "guideline": "guideline",
                     "severity": "High",
                     "cvss": "",
                     "category": "Vulnerability"
@@ -194,7 +194,7 @@
                         "pdn": true,
                         "qa": true
                     },
-                    "guideline": "https://bancolombia.sharepoint.com/:x:/r/teams/SeguridaddeTI-DevSecOps/Documentos%20compartidos/General/Pr%C3%A1cticas%20automatizadas%20de%20seguridad/MegaEngine/analisis%20estatico/Analisis%20est%C3%A1tico%20de%20Infraestructura%20(engine-iac)/Docker_k8s_Rules.xlsx?d=w65b6553bc4574805b31e57f4326d2dc7&csf=1&web=1&e=k0nmNU",
+                    "guideline": "guideline",
                     "severity": "High",
                     "cvss": "",
                     "category": "Vulnerability"
@@ -206,7 +206,7 @@
                         "pdn": true,
                         "qa": true
                     },
-                    "guideline": "https://bancolombia.sharepoint.com/:x:/r/teams/SeguridaddeTI-DevSecOps/Documentos%20compartidos/General/Pr%C3%A1cticas%20automatizadas%20de%20seguridad/MegaEngine/analisis%20estatico/Analisis%20est%C3%A1tico%20de%20Infraestructura%20(engine-iac)/Docker_k8s_Rules.xlsx?d=w65b6553bc4574805b31e57f4326d2dc7&csf=1&web=1&e=k0nmNU",
+                    "guideline": "guideline",
                     "severity": "Critical",
                     "cvss": "",
                     "category": "Vulnerability"
@@ -218,7 +218,7 @@
                         "pdn": true,
                         "qa": true
                     },
-                    "guideline": "https://bancolombia.sharepoint.com/:x:/r/teams/SeguridaddeTI-DevSecOps/Documentos%20compartidos/General/Pr%C3%A1cticas%20automatizadas%20de%20seguridad/MegaEngine/analisis%20estatico/Analisis%20est%C3%A1tico%20de%20Infraestructura%20(engine-iac)/Docker_k8s_Rules.xlsx?d=w65b6553bc4574805b31e57f4326d2dc7&csf=1&web=1&e=k0nmNU",
+                    "guideline": "guideline",
                     "severity": "High",
                     "cvss": "",
                     "category": "Compliance"
@@ -230,7 +230,7 @@
                         "pdn": true,
                         "qa": true
                     },
-                    "guideline": "https://bancolombia.sharepoint.com/:x:/r/teams/SeguridaddeTI-DevSecOps/Documentos%20compartidos/General/Pr%C3%A1cticas%20automatizadas%20de%20seguridad/MegaEngine/analisis%20estatico/Analisis%20est%C3%A1tico%20de%20Infraestructura%20(engine-iac)/Docker_k8s_Rules.xlsx?d=w65b6553bc4574805b31e57f4326d2dc7&csf=1&web=1&e=k0nmNU",
+                    "guideline": "guideline",
                     "severity": "High",
                     "cvss": "",
                     "category": "Vulnerability"
@@ -242,7 +242,7 @@
                         "pdn": true,
                         "qa": true
                     },
-                    "guideline": "https://bancolombia.sharepoint.com/:x:/r/teams/SeguridaddeTI-DevSecOps/Documentos%20compartidos/General/Pr%C3%A1cticas%20automatizadas%20de%20seguridad/MegaEngine/analisis%20estatico/Analisis%20est%C3%A1tico%20de%20Infraestructura%20(engine-iac)/Docker_k8s_Rules.xlsx?d=w65b6553bc4574805b31e57f4326d2dc7&csf=1&web=1&e=k0nmNU",
+                    "guideline": "guideline",
                     "severity": "Critical",
                     "cvss": "",
                     "category": "Vulnerability"
@@ -254,7 +254,7 @@
                         "pdn": true,
                         "qa": true
                     },
-                    "guideline": "https://bancolombia.sharepoint.com/:x:/r/teams/SeguridaddeTI-DevSecOps/Documentos%20compartidos/General/Pr%C3%A1cticas%20automatizadas%20de%20seguridad/MegaEngine/analisis%20estatico/Analisis%20est%C3%A1tico%20de%20Infraestructura%20(engine-iac)/Docker_k8s_Rules.xlsx?d=w65b6553bc4574805b31e57f4326d2dc7&csf=1&web=1&e=k0nmNU",
+                    "guideline": "guideline",
                     "severity": "Medium",
                     "cvss": "",
                     "category": "Vulnerability"
@@ -266,7 +266,7 @@
                         "pdn": true,
                         "qa": true
                     },
-                    "guideline": "https://bancolombia.sharepoint.com/:x:/r/teams/SeguridaddeTI-DevSecOps/Documentos%20compartidos/General/Pr%C3%A1cticas%20automatizadas%20de%20seguridad/MegaEngine/analisis%20estatico/Analisis%20est%C3%A1tico%20de%20Infraestructura%20(engine-iac)/Docker_k8s_Rules.xlsx?d=w65b6553bc4574805b31e57f4326d2dc7&csf=1&web=1&e=k0nmNU",
+                    "guideline": "guideline",
                     "severity": "High",
                     "cvss": "",
                     "category": "Vulnerability"
@@ -278,7 +278,7 @@
                         "pdn": true,
                         "qa": true
                     },
-                    "guideline": "https://bancolombia.sharepoint.com/:x:/r/teams/SeguridaddeTI-DevSecOps/Documentos%20compartidos/General/Pr%C3%A1cticas%20automatizadas%20de%20seguridad/MegaEngine/analisis%20estatico/Analisis%20est%C3%A1tico%20de%20Infraestructura%20(engine-iac)/Docker_k8s_Rules.xlsx?d=w65b6553bc4574805b31e57f4326d2dc7&csf=1&web=1&e=k0nmNU",
+                    "guideline": "guideline",
                     "severity": "Critical",
                     "cvss": "",
                     "category": "Vulnerability"
@@ -290,7 +290,7 @@
                         "pdn": true,
                         "qa": true
                     },
-                    "guideline": "https://bancolombia.sharepoint.com/:x:/r/teams/SeguridaddeTI-DevSecOps/Documentos%20compartidos/General/Pr%C3%A1cticas%20automatizadas%20de%20seguridad/MegaEngine/analisis%20estatico/Analisis%20est%C3%A1tico%20de%20Infraestructura%20(engine-iac)/Docker_k8s_Rules.xlsx?d=w65b6553bc4574805b31e57f4326d2dc7&csf=1&web=1&e=k0nmNU",
+                    "guideline": "guideline",
                     "severity": "Critical",
                     "cvss": "",
                     "category": "Vulnerability"
@@ -302,7 +302,7 @@
                         "pdn": true,
                         "qa": true
                     },
-                    "guideline": "https://bancolombia.sharepoint.com/:x:/r/teams/SeguridaddeTI-DevSecOps/Documentos%20compartidos/General/Pr%C3%A1cticas%20automatizadas%20de%20seguridad/MegaEngine/analisis%20estatico/Analisis%20est%C3%A1tico%20de%20Infraestructura%20(engine-iac)/Docker_k8s_Rules.xlsx?d=w65b6553bc4574805b31e57f4326d2dc7&csf=1&web=1&e=k0nmNU",
+                    "guideline": "guideline",
                     "severity": "High",
                     "cvss": "",
                     "category": "Vulnerability"
@@ -314,7 +314,7 @@
                         "pdn": true,
                         "qa": true
                     },
-                    "guideline": "https://bancolombia.sharepoint.com/:x:/r/teams/SeguridaddeTI-DevSecOps/Documentos%20compartidos/General/Pr%C3%A1cticas%20automatizadas%20de%20seguridad/MegaEngine/analisis%20estatico/Analisis%20est%C3%A1tico%20de%20Infraestructura%20(engine-iac)/Docker_k8s_Rules.xlsx?d=w65b6553bc4574805b31e57f4326d2dc7&csf=1&web=1&e=k0nmNU",
+                    "guideline": "guideline",
                     "severity": "High",
                     "cvss": "",
                     "category": "Compliance"
@@ -326,7 +326,7 @@
                         "pdn": true,
                         "qa": true
                     },
-                    "guideline": "https://bancolombia.sharepoint.com/:x:/r/teams/SeguridaddeTI-DevSecOps/Documentos%20compartidos/General/Pr%C3%A1cticas%20automatizadas%20de%20seguridad/MegaEngine/analisis%20estatico/Analisis%20est%C3%A1tico%20de%20Infraestructura%20(engine-iac)/Docker_k8s_Rules.xlsx?d=w65b6553bc4574805b31e57f4326d2dc7&csf=1&web=1&e=k0nmNU",
+                    "guideline": "guideline",
                     "severity": "Critical",
                     "cvss": "",
                     "category": "Vulnerability"
@@ -338,7 +338,7 @@
                         "pdn": true,
                         "qa": true
                     },
-                    "guideline": "https://bancolombia.sharepoint.com/:x:/r/teams/SeguridaddeTI-DevSecOps/Documentos%20compartidos/General/Pr%C3%A1cticas%20automatizadas%20de%20seguridad/MegaEngine/analisis%20estatico/Analisis%20est%C3%A1tico%20de%20Infraestructura%20(engine-iac)/Docker_k8s_Rules.xlsx?d=w65b6553bc4574805b31e57f4326d2dc7&csf=1&web=1&e=k0nmNU",
+                    "guideline": "guideline",
                     "severity": "High",
                     "cvss": "",
                     "category": "Vulnerability"
@@ -350,7 +350,7 @@
                         "pdn": true,
                         "qa": true
                     },
-                    "guideline": "https://bancolombia.sharepoint.com/:x:/r/teams/SeguridaddeTI-DevSecOps/Documentos%20compartidos/General/Pr%C3%A1cticas%20automatizadas%20de%20seguridad/MegaEngine/analisis%20estatico/Analisis%20est%C3%A1tico%20de%20Infraestructura%20(engine-iac)/Docker_k8s_Rules.xlsx?d=w65b6553bc4574805b31e57f4326d2dc7&csf=1&web=1&e=k0nmNU",
+                    "guideline": "guideline",
                     "severity": "High",
                     "cvss": "",
                     "category": "Vulnerability"
@@ -362,7 +362,7 @@
                         "pdn": true,
                         "qa": true
                     },
-                    "guideline": "https://bancolombia.sharepoint.com/:x:/r/teams/SeguridaddeTI-DevSecOps/Documentos%20compartidos/General/Pr%C3%A1cticas%20automatizadas%20de%20seguridad/MegaEngine/analisis%20estatico/Analisis%20est%C3%A1tico%20de%20Infraestructura%20(engine-iac)/Docker_k8s_Rules.xlsx?d=w65b6553bc4574805b31e57f4326d2dc7&csf=1&web=1&e=k0nmNU",
+                    "guideline": "guideline",
                     "severity": "High",
                     "cvss": "",
                     "category": "Vulnerability"
@@ -374,7 +374,7 @@
                         "pdn": true,
                         "qa": true
                     },
-                    "guideline": "https://bancolombia.sharepoint.com/:x:/r/teams/SeguridaddeTI-DevSecOps/Documentos%20compartidos/General/Pr%C3%A1cticas%20automatizadas%20de%20seguridad/MegaEngine/analisis%20estatico/Analisis%20est%C3%A1tico%20de%20Infraestructura%20(engine-iac)/Docker_k8s_Rules.xlsx?d=w65b6553bc4574805b31e57f4326d2dc7&csf=1&web=1&e=k0nmNU",
+                    "guideline": "guideline",
                     "severity": "High",
                     "cvss": "",
                     "category": "Vulnerability"
@@ -386,7 +386,7 @@
                         "pdn": false,
                         "qa": false
                     },
-                    "guideline": "https://bancolombia.sharepoint.com/:x:/r/teams/SeguridaddeTI-DevSecOps/Documentos%20compartidos/General/Pr%C3%A1cticas%20automatizadas%20de%20seguridad/MegaEngine/analisis%20estatico/Analisis%20est%C3%A1tico%20de%20Infraestructura%20(engine-iac)/Docker_k8s_Rules.xlsx?d=w65b6553bc4574805b31e57f4326d2dc7&csf=1&web=1&e=k0nmNU",
+                    "guideline": "guideline",
                     "severity": "Medium",
                     "cvss": "",
                     "category": "Vulnerability"
@@ -398,7 +398,7 @@
                         "pdn": true,
                         "qa": true
                     },
-                    "guideline": "https://bancolombia.sharepoint.com/:x:/r/teams/SeguridaddeTI-DevSecOps/Documentos%20compartidos/General/Pr%C3%A1cticas%20automatizadas%20de%20seguridad/MegaEngine/analisis%20estatico/Analisis%20est%C3%A1tico%20de%20Infraestructura%20(engine-iac)/Docker_k8s_Rules.xlsx?d=w65b6553bc4574805b31e57f4326d2dc7&csf=1&web=1&e=k0nmNU",
+                    "guideline": "guideline",
                     "severity": "High",
                     "cvss": "",
                     "category": "Vulnerability"
@@ -410,7 +410,7 @@
                         "pdn": true,
                         "qa": true
                     },
-                    "guideline": "https://bancolombia.sharepoint.com/:x:/r/teams/SeguridaddeTI-DevSecOps/Documentos%20compartidos/General/Pr%C3%A1cticas%20automatizadas%20de%20seguridad/MegaEngine/analisis%20estatico/Analisis%20est%C3%A1tico%20de%20Infraestructura%20(engine-iac)/Docker_k8s_Rules.xlsx?d=w65b6553bc4574805b31e57f4326d2dc7&csf=1&web=1&e=k0nmNU",
+                    "guideline": "guideline",
                     "severity": "High",
                     "cvss": "",
                     "category": "Vulnerability"
@@ -422,7 +422,7 @@
                         "pdn": true,
                         "qa": true
                     },
-                    "guideline": "https://bancolombia.sharepoint.com/:x:/r/teams/SeguridaddeTI-DevSecOps/Documentos%20compartidos/General/Pr%C3%A1cticas%20automatizadas%20de%20seguridad/MegaEngine/analisis%20estatico/Analisis%20est%C3%A1tico%20de%20Infraestructura%20(engine-iac)/Docker_k8s_Rules.xlsx?d=w65b6553bc4574805b31e57f4326d2dc7&csf=1&web=1&e=k0nmNU",
+                    "guideline": "guideline",
                     "severity": "High",
                     "cvss": "",
                     "category": "Vulnerability"
@@ -434,7 +434,7 @@
                         "pdn": true,
                         "qa": true
                     },
-                    "guideline": "https://bancolombia.sharepoint.com/:x:/r/teams/SeguridaddeTI-DevSecOps/Documentos%20compartidos/General/Pr%C3%A1cticas%20automatizadas%20de%20seguridad/MegaEngine/analisis%20estatico/Analisis%20est%C3%A1tico%20de%20Infraestructura%20(engine-iac)/Docker_k8s_Rules.xlsx?d=w65b6553bc4574805b31e57f4326d2dc7&csf=1&web=1&e=k0nmNU",
+                    "guideline": "guideline",
                     "severity": "High",
                     "cvss": "",
                     "category": "Vulnerability"
@@ -446,7 +446,7 @@
                         "pdn": true,
                         "qa": true
                     },
-                    "guideline": "https://bancolombia.sharepoint.com/:x:/r/teams/SeguridaddeTI-DevSecOps/Documentos%20compartidos/General/Pr%C3%A1cticas%20automatizadas%20de%20seguridad/MegaEngine/analisis%20estatico/Analisis%20est%C3%A1tico%20de%20Infraestructura%20(engine-iac)/Docker_k8s_Rules.xlsx?d=w65b6553bc4574805b31e57f4326d2dc7&csf=1&web=1&e=k0nmNU",
+                    "guideline": "guideline",
                     "severity": "High",
                     "cvss": "",
                     "category": "Vulnerability"
@@ -458,7 +458,7 @@
                         "pdn": true,
                         "qa": true
                     },
-                    "guideline": "https://bancolombia.sharepoint.com/:x:/r/teams/SeguridaddeTI-DevSecOps/Documentos%20compartidos/General/Pr%C3%A1cticas%20automatizadas%20de%20seguridad/MegaEngine/analisis%20estatico/Analisis%20est%C3%A1tico%20de%20Infraestructura%20(engine-iac)/Docker_k8s_Rules.xlsx?d=w65b6553bc4574805b31e57f4326d2dc7&csf=1&web=1&e=k0nmNU",
+                    "guideline": "guideline",
                     "severity": "High",
                     "cvss": "",
                     "category": "Vulnerability"
@@ -470,7 +470,7 @@
                         "pdn": true,
                         "qa": true
                     },
-                    "guideline": "https://bancolombia.sharepoint.com/:x:/r/teams/SeguridaddeTI-DevSecOps/Documentos%20compartidos/General/Pr%C3%A1cticas%20automatizadas%20de%20seguridad/MegaEngine/analisis%20estatico/Analisis%20est%C3%A1tico%20de%20Infraestructura%20(engine-iac)/Docker_k8s_Rules.xlsx?d=w65b6553bc4574805b31e57f4326d2dc7&csf=1&web=1&e=k0nmNU",
+                    "guideline": "guideline",
                     "severity": "High",
                     "cvss": "",
                     "category": "Vulnerability"
@@ -482,7 +482,7 @@
                         "pdn": true,
                         "qa": true
                     },
-                    "guideline": "https://bancolombia.sharepoint.com/:x:/r/teams/SeguridaddeTI-DevSecOps/Documentos%20compartidos/General/Pr%C3%A1cticas%20automatizadas%20de%20seguridad/MegaEngine/analisis%20estatico/Analisis%20est%C3%A1tico%20de%20Infraestructura%20(engine-iac)/Docker_k8s_Rules.xlsx?d=w65b6553bc4574805b31e57f4326d2dc7&csf=1&web=1&e=k0nmNU",
+                    "guideline": "guideline",
                     "severity": "High",
                     "cvss": "",
                     "category": "Vulnerability"
@@ -494,7 +494,7 @@
                         "pdn": true,
                         "qa": true
                     },
-                    "guideline": "https://bancolombia.sharepoint.com/:x:/r/teams/SeguridaddeTI-DevSecOps/Documentos%20compartidos/General/Pr%C3%A1cticas%20automatizadas%20de%20seguridad/MegaEngine/analisis%20estatico/Analisis%20est%C3%A1tico%20de%20Infraestructura%20(engine-iac)/Docker_k8s_Rules.xlsx?d=w65b6553bc4574805b31e57f4326d2dc7&csf=1&web=1&e=k0nmNU",
+                    "guideline": "guideline",
                     "severity": "High",
                     "cvss": "",
                     "category": "Vulnerability"
@@ -506,47 +506,10 @@
                         "pdn": true,
                         "qa": true
                     },
-                    "guideline": "https://bancolombia.sharepoint.com/:x:/r/teams/SeguridaddeTI-DevSecOps/Documentos%20compartidos/General/Pr%C3%A1cticas%20automatizadas%20de%20seguridad/MegaEngine/analisis%20estatico/Analisis%20est%C3%A1tico%20de%20Infraestructura%20(engine-iac)/Docker_k8s_Rules.xlsx?d=w65b6553bc4574805b31e57f4326d2dc7&csf=1&web=1&e=k0nmNU",
+                    "guideline": "guideline",
                     "severity": "High",
                     "cvss": "",
                     "category": "Vulnerability"
-                },
-                "CKV_K8S_BC_1": {
-                    "checkID": "IAC-CKV_K8S_BC_1 k8s resources has compliance tags",
-                    "environment": {
-                        "dev": true,
-                        "pdn": true,
-                        "qa": true
-                    },
-                    "guideline": "https://bancolombia.sharepoint.com/:x:/r/teams/SeguridaddeTI-DevSecOps/Documentos%20compartidos/General/Pr%C3%A1cticas%20automatizadas%20de%20seguridad/MegaEngine/analisis%20estatico/Analisis%20est%C3%A1tico%20de%20Infraestructura%20(engine-iac)/Docker_k8s_Rules.xlsx?d=w65b6553bc4574805b31e57f4326d2dc7&csf=1&web=1&e=k0nmNU",
-                    "severity": "Critical",
-                    "cvss": "",
-                    "category": "Compliance"
-                },
-                "CKV_K8S_BC_2": {
-                    "checkID": "IAC-CKV_K8S_BC_2 k8s resources has topologySpreadConstraints configuration",
-                    "environment": {
-                        "dev": true,
-                        "pdn": true,
-                        "qa": true
-                    },
-                    "guideline": "https://bancolombia.sharepoint.com/:x:/r/teams/SeguridaddeTI-DevSecOps/Documentos%20compartidos/General/Pr%C3%A1cticas%20automatizadas%20de%20seguridad/MegaEngine/analisis%20estatico/Analisis%20est%C3%A1tico%20de%20Infraestructura%20(engine-iac)/Docker_k8s_Rules.xlsx?d=w65b6553bc4574805b31e57f4326d2dc7&csf=1&web=1&e=k0nmNU",
-                    "severity": "Critical",
-                    "cvss": "",
-                    "category": "Compliance",
-                    "platform_not_apply": "openshift"
-                },
-                "CKV_K8S_BC_3": {
-                    "checkID": "IAC-CKV_K8S_BC_3 Ensure k8s service type is ClusterIP",
-                    "environment": {
-                        "dev": true,
-                        "pdn": true,
-                        "qa": true
-                    },
-                    "guideline": "https://bancolombia.sharepoint.com/:x:/r/teams/SeguridaddeTI-DevSecOps/Documentos%20compartidos/General/Pr%C3%A1cticas%20automatizadas%20de%20seguridad/MegaEngine/analisis%20estatico/Analisis%20est%C3%A1tico%20de%20Infraestructura%20(engine-iac)/Docker_k8s_Rules.xlsx?d=w65b6553bc4574805b31e57f4326d2dc7&csf=1&web=1&e=k0nmNU",
-                    "severity": "Low",
-                    "cvss": "",
-                    "category": "Compliance"
                 }
             },
             "RULES_CLOUDFORMATION": {
